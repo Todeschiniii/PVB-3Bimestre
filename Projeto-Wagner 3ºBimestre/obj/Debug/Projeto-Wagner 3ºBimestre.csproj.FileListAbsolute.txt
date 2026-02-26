@@ -41,3 +41,14 @@ C:\Users\mateu\OneDrive\Desktop\Projetos - Técnico\Wagner\Projetos\3°Bimestre\
 C:\Users\mateu\OneDrive\Desktop\Projetos - Técnico\Wagner\Projetos\3°Bimestre\Projeto-Wagner 3ºBimestre\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.csproj.CoreCompileInputs.cache
 C:\Users\mateu\OneDrive\Desktop\Projetos - Técnico\Wagner\Projetos\3°Bimestre\Projeto-Wagner 3ºBimestre\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.exe
 C:\Users\mateu\OneDrive\Desktop\Projetos - Técnico\Wagner\Projetos\3°Bimestre\Projeto-Wagner 3ºBimestre\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.pdb
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\bin\Debug\Projeto-Wagner 3ºBimestre.exe.config
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\bin\Debug\Projeto-Wagner 3ºBimestre.exe
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\bin\Debug\Projeto-Wagner 3ºBimestre.pdb
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.csproj.AssemblyReference.cache
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.exe.config
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto_Wagner_3ºBimestre.Form1.resources
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto_Wagner_3ºBimestre.Properties.Resources.resources
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.csproj.GenerateResource.cache
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.csproj.CoreCompileInputs.cache
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.exe
+C:\Users\mateu\OneDrive\Documentos\GitHub\CaixaEletronico\Projeto-Wagner 3ºBimestre\obj\Debug\Projeto-Wagner 3ºBimestre.pdb
