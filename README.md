@@ -11,6 +11,7 @@
 - [🔄 Fluxo do Sistema](#-fluxo-do-sistema)
 - [📂 Estrutura do Código](#-estrutura-do-código)
 - [🚀 Possíveis Melhorias Futuras](#-possíveis-melhorias-futuras)
+- [📄 Licença](#-Licença)
 - [👥 Créditos & Contatos](#-créditos--contatos)
 
 ---
